@@ -1,6 +1,9 @@
 # din-validator - DIN Validator
 Library to validate if strings meet specific DIN Specifications.
 
+Currently included specs:
+ * DIN SPEC 91379
+
 ## Contents
  - [Requirements](#requirements)
  - [Install](#install)
